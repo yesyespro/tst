@@ -1,3 +1,3 @@
-int main(){
+ggggint main(){
 	printf("Hello World");
 }
