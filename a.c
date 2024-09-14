@@ -1,1 +1,3 @@
-aff
+int main(){
+	printf("Hello World");
+}
